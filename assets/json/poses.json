@@ -3,13 +3,13 @@
     "pose_name": "Mountain Pose",
     "image_path": "assets/images/mountain_pose.jpg",
     "audio_path": "assets/audio/mountain_pose.mp3",
-    "duration_seconds": 30
+    "duration_seconds": 40
   },
   {
     "pose_name": "Downward-Facing Dog",
     "image_path": "assets/images/downward_dog.jpg",
     "audio_path": "assets/audio/downward_dog.mp3",
-    "duration_seconds": 45
+    "duration_seconds": 40
   },
   {
     "pose_name": "Warrior I",
@@ -21,6 +21,6 @@
     "pose_name": "Tree Pose",
     "image_path": "assets/images/tree_pose.png",
     "audio_path": "assets/audio/tree_pose.mp3",
-    "duration_seconds": 35
+    "duration_seconds": 40
   }
 ]

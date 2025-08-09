@@ -19,7 +19,7 @@
   },
   {
     "pose_name": "Tree Pose",
-    "image_path": "assets/images/tree_pose.jpg",
+    "image_path": "assets/images/tree_pose.png",
     "audio_path": "assets/audio/tree_pose.mp3",
     "duration_seconds": 35
   }
